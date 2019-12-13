@@ -39,18 +39,18 @@ Ansible × SmartCS × ALAXALAネットワークス
 
 ### Section.3 - Ansible × SmartCS × ALAXALA の連携演習基礎
 
- - [[**演習3.1** ALAXALA装置にSmartCS経由で初期設定を行う]](3.1-Initial_setup_the_ALAXALA_device_via_smartcs.md)
- - [[**演習3.2** ALAXALA装置にSmartCS経由で追加設定を行う]](3.2-Additional_setup_the_ALAXALA_device_via_smartcs.md)
- - [[**演習3.3** ALAXALA装置の設定情報を取得する]](3.3-Get_ALAXALA_device_information.md)
- - [[**演習3.4** ALAXALA装置の設定情報をSmartCS経由で取得する1]](3.4-Setting_of_ALAXALA_device_via_smartcs_1.md)
- - [[**演習3.5** ALAXALA装置の設定情報をSmartCS経由で取得する2]](3.5-Setting_of_ALAXALA_device_via_smartcs_2.md)
+ - [[**演習3.1** ALAXALA装置にSmartCS経由で初期設定を行う]](3.1-initial_setup_the_alaxala_device_via_smartcs.md)
+ - [[**演習3.2** ALAXALA装置にSmartCS経由で追加設定を行う]](3.2-additional_setup_the_alaxala_device_via_smartcs.md)
+ - [[**演習3.3** ALAXALA装置の設定情報を取得する]](3.3-get_alaxala_device_information.md)
+ - [[**演習3.4** ALAXALA装置の設定情報をSmartCS経由で取得する1]](3.4-setting_of_alaxala_device_via_smartcs_1.md)
+ - [[**演習3.5** ALAXALA装置の設定情報をSmartCS経由で取得する2]](3.5-setting_of_alaxala_device_via_smartcs_2.md)
 
 ### Section.4 - Ansible × SmartCS × ALAXALA の連携演習応用(ユースケース)
 
- - [[**演習4.1** オペミスからの復旧自動化]](4.1-Automation_of_operation_error_recovery.md)
- - [[**演習4.2** 通信障害からの復旧自動化]](4.2-Automation_of_recovery_from_network_communication_failures.md)
- - [[**演習4.3** ファームウェアアップデートの自動化]](4.3-Autommation_of_firmware_update.md)
- - [[**演習4.4** 初期化の自動化]](4.4-Automation_of_initialization.md)
+ - [[**演習4.1** オペミスからの復旧自動化]](4.1-automation_of_operation_error_recovery.md)
+ - [[**演習4.2** 通信障害からの復旧自動化]](4.2-automation_of_recovery_from_network_communication_failures.md)
+ - [[**演習4.3** ファームウェアアップデートの自動化]](4.3-autommation_of_firmware_update.md)
+ - [[**演習4.4** 初期化の自動化]](4.4-automation_of_initialization.md)
 
 ### Section.5 - Ansible Tower との連携演習
 
