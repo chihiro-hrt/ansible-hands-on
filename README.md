@@ -1,3 +1,8 @@
+# Ansible x SmartCS x ALAXALA Workshop by SBCS
+
+![ansibleXsmartcsXalaxala.png](ansibleXsmartcsXalaxala.png)
+
+
 # 本ドキュメントについて
 
 本ドキュメントは、SBCS様主催のAnsibleハンズオンセミナー
@@ -7,8 +12,12 @@ Ansible × SmartCS × ALAXALAネットワークス
 ## ハンズオン環境
 
 ### 構成図
+![handson_network.png](handson_network.png)
 
 ### SWバージョン
+- Ansible :  2.8.5
+- SmartCS modules for Ansible :  Version 1.1
+- AX modules for Ansible :  Version 1.4
 
 
 ## ハンズオン内容
