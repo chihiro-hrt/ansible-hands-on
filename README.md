@@ -42,8 +42,7 @@ Ansible × SmartCS × ALAXALAネットワークス
  - [[**演習3.1** ALAXALA装置にSmartCS経由で初期設定を行う]](3.1-initial_setup_the_alaxala_device_via_smartcs.md)
  - [[**演習3.2** ALAXALA装置にSmartCS経由で追加設定を行う]](3.2-additional_setup_the_alaxala_device_via_smartcs.md)
  - [[**演習3.3** ALAXALA装置の設定情報を取得する]](3.3-get_alaxala_device_information.md)
- - [[**演習3.4** ALAXALA装置の設定情報をSmartCS経由で取得する1]](3.4-setting_of_alaxala_device_via_smartcs_1.md)
- - [[**演習3.5** ALAXALA装置の設定情報をSmartCS経由で取得する2]](3.5-setting_of_alaxala_device_via_smartcs_2.md)
+ - [[**演習3.4** ALAXALA装置の設定情報をSmartCS経由で取得する]](3.4-setting_of_alaxala_device_via_smartcs.md)
 
 ### Section.4 - Ansible × SmartCS × ALAXALA の連携演習応用(ユースケース)
 
