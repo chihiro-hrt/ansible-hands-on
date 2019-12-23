@@ -60,10 +60,10 @@ Ansible × SmartCS × ALAXALAネットワークス
 　演習4の中で、いくつかを演習5に移動できれば、と思っています。  
 　ひとまず全て演習4に記載しておいて、CLIベースのPlaybookを用意して準備しておきます。  
 
-※以下の「演習5.X AnsibleとSmartCSを連携した監視オペレーション」  
+※以下の「演習5.x 監視の自動化」  
 　は、CLIベースの演習では出来ない為、演習5として内容を記載します。
 
-- [[**演習5.x** 監視の自動化]](5.x-monitoring_operation_linking_ansible_and_smartcs.md)
+- [[**演習5.x** 監視の自動化]](5.x-automation_of_monitering.md)
 
 
 ### Section.6 - 最後に
