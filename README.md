@@ -35,7 +35,7 @@ Ansible × SmartCS × ALAXALAネットワークス
 
 ### Section.2 - SmartCS基礎演習
 
- - [[**演習2.1** SmartCSの基本動作を確認する]](2.1-basic_operation_of_smartcs.md)
+ - [[**演習2.1** SmartCSを介してALAXALA装置へコンソールアクセスする]](2.1-serial_connection_to_alaxala_via_smartcs.md)
  - [[**演習2.2** SmartCSを介したALAXALA装置へのコンソールアクセスを、別セッションでミラーリングする]](2.2-mirroring_operation_of_smartcs.md)
  - [[**演習2.3** SmartCSを介したシリアルセッション情報を確認する]](2.3-checking_serial_session_information_of_smartcs.md)
 
