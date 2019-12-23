@@ -57,12 +57,11 @@ Ansible × SmartCS × ALAXALAネットワークス
 ### Section.5 - Ansible Tower との連携演習
 
 ※演習5では Ansible Tower との連携演習を予定  
-　演習4の中で、いくつかを演習5に移動できれば、と思っています。
+　演習4の中で、いくつかを演習5に移動できれば、と思っています。  
   ひとまず全て演習4側に記載して、CLIベースのPlaybookを用意しますが、ご意見伺ってから演習5に移動できればと思っています。
 
 ※以下の「演習5.X AnsibleとSmartCSを連携した監視オペレーション」  
 　は、CLIベースの演習では出来ない為、演習5として内容を記載します。
- - 案1.演習4.2の応用編 監視→情報取得→復旧自動化をTower経由で  
 
 - [[**演習5.x** 監視の自動化]](5.x-monitoring_operation_linking_ansible_and_smartcs.md)
 
