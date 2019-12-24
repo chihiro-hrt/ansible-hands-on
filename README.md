@@ -19,7 +19,7 @@ Ansible × SmartCS × ALAXALAネットワークス
 ## ハンズオン環境
 
 ### 構成図
-![handson_environment.png](handson_environment.png)
+![handson_environment.png](./contents/image/handson_environment.png)
 
 ### SWバージョン
 - Ansible :  2.8.5
