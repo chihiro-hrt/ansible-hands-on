@@ -1,6 +1,6 @@
 # Ansible x SmartCS x ALAXALA Workshop
 
-![ansibleXsmartcsXalaxala.png](ansibleXsmartcsXalaxala.png)
+![ansibleXsmartcsXalaxala.png](./contents/image/ansibleXsmartcsXalaxala.png)
 
 
 ## 本ドキュメントについて
