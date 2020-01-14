@@ -1,0 +1,8 @@
+---
+- name: initialzing user settings
+  import_playbook: initialzing_step1_user.yml
+
+- name: initialzing all setting and log
+  import_playbook: initialzing_step2_all.yml
+
+
