@@ -22,10 +22,11 @@ Ansible × SmartCS × ALAXALAネットワークス
 ![handson_environment.png](./contents/image/handson_environment.png)
 
 ### SWバージョン
-- Ansible :  2.8.5
-- SmartCS modules for Ansible :  Version 1.1
-- AX modules for Ansible :  Version 1.4
 
+|Ansible |2.8.2 |
+|:---|:---|
+|SmartCS module for Ansible |1.1 |
+|AX modules for Ansible |1.4 |
 
 ## ハンズオン内容
 
