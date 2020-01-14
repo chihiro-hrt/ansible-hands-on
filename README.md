@@ -10,7 +10,7 @@ Ansible × SmartCS × ALAXALAネットワークス
 で使用するコンテンツとなります。  
 
 本ワークショップのトレーニングは以下を目的としています。  
-- ネットワーク運用におけるAnsibleの使い方
+- ネットワーク運用の自動化におけるAnsibleの使い方
 - コンソールサーバ SmartCSの使い方
 - ALAXALAネットワーク製品をAnsibleで制御する方法
 - Ansible、SmartCS、ALAXALAネットワークス製品を連携させたネットワーク運用の自動化
