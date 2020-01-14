@@ -9,9 +9,9 @@
   - username: 'alaxala'
   - password: 'secret2230'
   - ftpserver: '172.31.8.41'
-  - ftpuser: 'nakayama'
-  - ftppass: 'nakashin'
-  - imgpath: '/home/nakayama'
+  - ftpuser: 'ftpuser'
+  - ftppass: 'xxxxxxxx'
+  - imgpath: '/home/ftpuser'
   - verupimg: 'AX2230L20210-01.bin'
 
 
