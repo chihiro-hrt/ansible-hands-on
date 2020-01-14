@@ -21,12 +21,6 @@ Ansible × SmartCS × ALAXALAネットワークス
 ### 構成図
 ![practice_environment.png](./contents/image/practice_environment.png)
 
-### SWバージョン
-
-|Ansible |2.8.2 |
-|:---|:---|
-|SmartCS module for Ansible |1.1 |
-|AX modules for Ansible |1.4 |
 
 ## ハンズオン内容
 
