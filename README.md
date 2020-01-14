@@ -19,7 +19,7 @@ Ansible × SmartCS × ALAXALAネットワークス
 ## ハンズオン環境
 
 ### 構成図
-![practice_environment_4-2.png](./contents/image/practice_environment_4-2.png)
+![practice_environment.png](./contents/image/practice_environment.png)
 
 ### SWバージョン
 
