@@ -10,6 +10,7 @@
   - password: 'secret2230'
   - ipaddr: '172.31.8.223'
   - subnet: '255.255.0.0'
+  - gateway: '192.168.128.254'
 
   tasks:
   - name: setting ipaddr and ssh
@@ -33,10 +34,12 @@
       - '{{ password }}'
       - 'configure'
       - 'interface vlan 1'
-      - 'ip address {{ ipaddr }} {{ subnet}}'
+      - 'ip address {{ ipaddr }} {{ subnet }}'
       - 'exit'
+      - 'ip route 0.0.0.0 0.0.0.0 {{ gateway }}'
       - 'ip ssh'
       - 'line vty 0 1'
+      - 'transport input ssh'
       - 'save'
       - 'exit'
       - 'exit'
