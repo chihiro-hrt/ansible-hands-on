@@ -54,7 +54,7 @@ Ansible × SmartCS × ALAXALAネットワークス
 ### Section.5 - Ansible Tower との連携演習
 
 - [[**演習5.1** Ansible Towerのセットアップ]](5.1-setup_Ansible_Tower.md)
-- [[**演習5.2** 監視の自動化]](5.2-automation_of_monitering.md)
+- [[**演習5.2** 定期的な死活監視と障害発生時の情報取得を自動化]](5.2-automation_of_monitering.md)
 
 > 監視の自動化は、ワークフローテンプレートを使わないとできない機能なのでここに記載    
 
