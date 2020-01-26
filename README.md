@@ -47,15 +47,9 @@ Ansible × SmartCS × ALAXALAネットワークス
  - [[**演習4.2** 通信障害からの復旧自動化]](4.2-automation_of_recovery_from_network_communication_failures.md)
  - [[**演習4.3** ファームウェアアップデートの自動化]](4.3-automation_of_firmware_update.md)
  - [[**演習4.4** 初期化の自動化]](4.4-automation_of_initialization.md)
-
-> 演習4.4はTowerの演習を行うとしても、CLIベースの演習内容4.4もこのまま残しておく  
-> Towerの演習内で入れてもいいし、演習5を終えた後に、4.4をやってもよい  
-
+  
 ### Section.5 - Ansible Tower との連携演習
 
 - [[**演習5.1** Ansible Towerのセットアップ]](5.1-setup_Ansible_Tower.md)
 - [[**演習5.2** 定期的な死活監視と障害発生時の情報取得を自動化]](5.2-automation_of_monitering.md)
-
-> 監視の自動化は、ワークフローテンプレートを使わないとできない機能なのでここに記載    
-
 
